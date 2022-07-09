@@ -1,6 +1,6 @@
 ## Trojan-Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/laogenihao/Trojan-Heroku)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/xdeefr/Trojan-Heroku)
 
 开启运输插件作为入站隧道，侦听443端口即可...
 
